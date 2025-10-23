@@ -33,3 +33,8 @@ IN SUMMARY, THIS TASK INVOLVED CREATING A CLEAN, MODERN, AND RESPONSIVE LANDING 
 
 ##OUTPUT
 
+<img width="1893" height="914" alt="Image" src="https://github.com/user-attachments/assets/40d0074d-1c74-406e-ac07-38943eae1493" />
+
+<img width="1200" height="912" alt="Image" src="https://github.com/user-attachments/assets/2e72fac1-ce37-4538-9eae-b7c2a34c341d" />
+
+<img width="848" height="909" alt="Image" src="https://github.com/user-attachments/assets/3887a12c-5785-4b8e-b40c-c6c63600efe2" />
